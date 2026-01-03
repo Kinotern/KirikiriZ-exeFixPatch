@@ -1,0 +1,2 @@
+steam游戏使用前请备份原始exe与steamapi.dll
+使用后游戏存档路径会发生改变
