@@ -1,0 +1,6 @@
+游戏经过脱壳后，沙盒检测到高危IP存在Tcp问题
+IP时谷歌的官方机房ip，类似于谷歌翻译dns等等用的
+因为游戏内有跳转到游戏官网在跳到Google的dns再跳到Youtube的可选操作
+https://www.yuzu-soft.com/products/stella/
+而实际检测发现值释放了krkr加密cxdec用的dll与krkrlog文件
+未发现其余联网操作，火绒卡巴斯基均扫描过无问题
